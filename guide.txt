@@ -1,0 +1,4 @@
+ha 1 darab fájlt vagy nem az összes fájlt szeretném hozzá adni a line-hoz
+~ git add [fájlnév]
+vagy
+~ git add .
